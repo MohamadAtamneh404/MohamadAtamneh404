@@ -42,11 +42,11 @@ I am a Software Engineer and recent B.Sc. graduate specializing in **causal lang
 
 ### 🚀 Featured Projects
 
-*   🤖 **[DeMaestro Multi-Agent App Synthesizer](https://github.com/MohamadAtamneh/DeMaestro-Code)** <br/> Engineered the Python/FastAPI backend for a generative AI system that synthesizes full-stack web apps from PDF requirements. Orchestrated LLM extraction workflows (Gemini, Claude) and implemented a hardened Docker sandbox for execution.
-*   🧠 **[Fine-Tuning GPT-2 for Causal Language Modeling](https://github.com/MohamadAtamneh/GPT-2-FineTuning)** <br/> Implemented an end-to-end PyTorch pipeline on WikiText-103 (50k samples) with custom DataLoader batching to adapt GPT-2 to a structured Wikipedia-like style. Achieved 29.05 perplexity.
-*   📄 **[AI-Powered Resume Builder](https://github.com/MohamadAtamneh/AI-Powered-Resume-Builder)** <br/> A full-stack generative AI web app (React, Node.js, Express, MongoDB) integrated with the Gemini API to intelligently construct resumes. Features an automated rendering pipeline using Puppeteer for dynamic PDFs.
-*   📊 **[InsightDash IoT Analytics Platform](https://github.com/MohamadAtamneh/InsightDash)** <br/> Designed scalable Python backend microservices for real-time sensor data ingestion and anomaly detection using PySpark, MQTT, and Firebase.
-*   🎬 **[BERT IMDB Sentiment Classification](https://github.com/MohamadAtamneh/BERT-IMDB-Sentiment-Analysis)** <br/> Fine-tuned a pretrained BERT model for sentiment analysis using PyTorch. Implemented GPU-accelerated training with SGD optimization, achieving ~90% accuracy.
+*   🤖 **[DeMaestro Multi-Agent App Synthesizer](https://github.com/MohamadAtamneh404/DeMaestro-Code)** <br/> Engineered the Python/FastAPI backend for a generative AI system that synthesizes full-stack web apps from PDF requirements. Orchestrated LLM extraction workflows (Gemini, Claude) and implemented a hardened Docker sandbox for execution.
+*   🧠 **[Fine-Tuning GPT-2 for Causal Language Modeling](https://github.com/MohamadAtamneh404/GPT2_Project_Group_5)** <br/> Implemented an end-to-end PyTorch pipeline on WikiText-103 (50k samples) with custom DataLoader batching to adapt GPT-2 to a structured Wikipedia-like style. Achieved 29.05 perplexity.
+*   📄 **[AI-Powered Resume Builder](https://github.com/MohamadAtamneh404/AI-Powered-Resume-Builder)** <br/> A full-stack generative AI web app (React, Node.js, Express, MongoDB) integrated with the Gemini API to intelligently construct resumes. Features an automated rendering pipeline using Puppeteer for dynamic PDFs.
+*   📊 **[InsightDash IoT Analytics Platform](https://github.com/MohamadAtamneh404/InsightDash-Project)** <br/> Designed scalable Python backend microservices for real-time sensor data ingestion and anomaly detection using PySpark, MQTT, and Firebase.
+*   🎬 **[BERT IMDB Sentiment Classification](https://github.com/MohamadAtamneh404/BERT-IMDB-Sentiment-Analysis)** <br/> Fine-tuned a pretrained BERT model for sentiment analysis using PyTorch. Implemented GPU-accelerated training with SGD optimization, achieving ~90% accuracy.
 
 ---
 
