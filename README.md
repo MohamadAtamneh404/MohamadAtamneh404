@@ -1,20 +1,40 @@
-# Hi there, I'm Mohamad Atamneh 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohamad%20Atamleh&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20Python%20Backend&descAlignY=55&descAlign=50" />
+</div>
 
-### Full-Stack Developer & AI Enthusiast
+<h3 align="center">Bridging Intelligent Systems with Scalable Engineering</h3>
 
-I'm a passionate developer who loves bridging the gap between intelligent systems and beautiful user interfaces. I build modern web applications and experiment with Machine Learning models like BERT and GPT.
+<div align="center">
+  <a href="mailto:mohamad.atamleh55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/mohamad-atamleh-a43185381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br/>
+
+I am a Software Engineer and recent B.Sc. graduate specializing in **causal language modeling, transformer fine-tuning, and Python backend pipelines**. I build autonomous multi-agent systems and deploy intelligent web applications, orchestrating foundational LLMs (like GPT-2, BERT, Gemini, and Claude) into scalable, real-world solutions.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- You can customize these badges. I've added ones based on your repositories! -->
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<p align="center">
+  <!-- Backend & AI -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <!-- Full-Stack & Cloud -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -22,26 +42,21 @@ I'm a passionate developer who loves bridging the gap between intelligent system
 
 ### 🚀 Featured Projects
 
-*   **[LuxeFashion](https://github.com/MohamadAtamneh404/LuxeFashion)**: A modern fashion platform built with TypeScript.
-*   **[AI-Powered-Resume-Builder](https://github.com/MohamadAtamneh404/AI-Powered-Resume-Builder)**: A tool that leverages AI to help users build standout resumes.
-*   **[BERT-IMDB-Sentiment-Analysis](https://github.com/MohamadAtamneh404/BERT-IMDB-Sentiment-Analysis)**: NLP project analyzing movie reviews using the BERT architecture.
-*   **[DeMaestro-Code](https://github.com/MohamadAtamneh404/DeMaestro-Code)**: Python-based tooling and automation.
+*   🤖 **[DeMaestro Multi-Agent App Synthesizer](https://github.com/MohamadAtamneh/DeMaestro-Code)** <br/> Engineered the Python/FastAPI backend for a generative AI system that synthesizes full-stack web apps from PDF requirements. Orchestrated LLM extraction workflows (Gemini, Claude) and implemented a hardened Docker sandbox for execution.
+*   🧠 **[Fine-Tuning GPT-2 for Causal Language Modeling](https://github.com/MohamadAtamneh/GPT-2-FineTuning)** <br/> Implemented an end-to-end PyTorch pipeline on WikiText-103 (50k samples) with custom DataLoader batching to adapt GPT-2 to a structured Wikipedia-like style. Achieved 29.05 perplexity.
+*   📄 **[AI-Powered Resume Builder](https://github.com/MohamadAtamneh/AI-Powered-Resume-Builder)** <br/> A full-stack generative AI web app (React, Node.js, Express, MongoDB) integrated with the Gemini API to intelligently construct resumes. Features an automated rendering pipeline using Puppeteer for dynamic PDFs.
+*   📊 **[InsightDash IoT Analytics Platform](https://github.com/MohamadAtamneh/InsightDash)** <br/> Designed scalable Python backend microservices for real-time sensor data ingestion and anomaly detection using PySpark, MQTT, and Firebase.
+*   🎬 **[BERT IMDB Sentiment Classification](https://github.com/MohamadAtamneh/BERT-IMDB-Sentiment-Analysis)** <br/> Fine-tuned a pretrained BERT model for sentiment analysis using PyTorch. Implemented GPU-accelerated training with SGD optimization, achieving ~90% accuracy.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<!-- These cards dynamically update based on your GitHub activity! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadAtamneh404&show_icons=true&theme=radium" alt="Mohamad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAtamneh404&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadAtamneh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohamad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAtamneh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
-
-### 📫 How to reach me
-
-<!-- Replace the '#' with your actual links -->
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](#)
-- 🐦 **Twitter/X:** [@your_handle](#)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
