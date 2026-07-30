@@ -24,6 +24,7 @@ I am a Software Engineer and recent B.Sc. graduate specializing in **causal lang
 <p align="center">
   <!-- Backend & AI -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
@@ -38,6 +39,7 @@ I am a Software Engineer and recent B.Sc. graduate specializing in **causal lang
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+
 ---
 
 ### 🚀 Featured Projects
@@ -47,7 +49,7 @@ I am a Software Engineer and recent B.Sc. graduate specializing in **causal lang
 *   📄 **[AI-Powered Resume Builder](https://github.com/MohamadAtamneh404/AI-Powered-Resume-Builder)** <br/> A full-stack generative AI web app (React, Node.js, Express, MongoDB) integrated with the Gemini API to intelligently construct resumes. Features an automated rendering pipeline using Puppeteer for dynamic PDFs.
 *   📊 **[InsightDash IoT Analytics Platform](https://github.com/MohamadAtamneh404/InsightDash-Project)** <br/> Designed scalable Python backend microservices for real-time sensor data ingestion and anomaly detection using PySpark, MQTT, and Firebase.
 *   🎬 **[BERT IMDB Sentiment Classification](https://github.com/MohamadAtamneh404/BERT-IMDB-Sentiment-Analysis)** <br/> Fine-tuned a pretrained BERT model for sentiment analysis using PyTorch. Implemented GPU-accelerated training with SGD optimization, achieving ~90% accuracy.
-
+*   📚 **[Digital Library App](https://github.com/MohamadAtamneh404/Digital-Library-App)** <br/> A client-server architecture built with Java 23, JavaFX, and MySQL. Features an interactive GUI and modular socket networking for handling concurrent client requests and digital library management.
 ---
 
 ### 📈 GitHub Stats
